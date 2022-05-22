@@ -1,2 +1,3 @@
-# turborepo-examples
-Collect turborepo examples from official repository: https://github.com/vercel/turborepo/tree/main/examples
+# turborepo-yarn-example
+
+More examples can be found in official repository: <https://github.com/vercel/turborepo/tree/main/examples>
