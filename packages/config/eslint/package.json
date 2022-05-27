@@ -4,8 +4,8 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "@babel/eslint-parser": "^7.18.2",
-    "@babel/preset-react": "^7.17.12",
+    "@typescript-eslint/eslint-plugin": "^5.26.0",
+    "@typescript-eslint/parser": "^5.26.0",
     "eslint-config-alloy": "^4.5.1",
     "eslint-plugin-react": "^7.30.0"
   },
